@@ -1,0 +1,4 @@
+keyboard
+SpeechRecognition
+pyttsx3
+PyAudio
